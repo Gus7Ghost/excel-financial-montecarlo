@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+~$*.xlsx
+.DS_Store
+Thumbs.db
